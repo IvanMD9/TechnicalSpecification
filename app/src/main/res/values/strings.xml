@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Technical specification</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="item_4">Item 4</string>
+    <string name="item_5">Item 5</string>
+    <string name="weight">100 г</string>
+
+    <string name="country">Страна-производитель:</string>
+    <string name="date">Срок годности:</string>
+    <string name="temp">Температура хранения:</string>
+    <string name="calories">Калории (100г):</string>
+    <string name="proteins">Белки:</string>
+    <string name="fats">Жиры:</string>
+    <string name="carbohydrates">Углеводы:</string>
+
+    <string name="country_value">Индия</string>
+    <string name="date_value">5 суток</string>
+    <string name="temp_value">10 – 15 °С</string>
+    <string name="calories_value">340 кКал</string>
+    <string name="proteins_value">10 г</string>
+    <string name="fats_value">0.2 г</string>
+    <string name="carbohydrates_value">28.5 г</string>
+</resources>
